@@ -1,0 +1,37 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Tailwind CSS build output (optional – ignore if you build per-deploy)
+emails/styles/output.css
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*
